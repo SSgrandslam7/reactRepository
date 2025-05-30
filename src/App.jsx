@@ -1,10 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './Header';
-import Footer from './Footer';
-import About from './About';
-import Portfolio from './Portfolio';
-import Contact from './Contact';
-import Resume from './Resume';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import About from './components/About';
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 // import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
